@@ -6,11 +6,11 @@ This notebook performs unsupervised learning using K-Means clustering to uncover
 
 ## 🔧 Features
 
-- **Preprocessing and EDA**
-- **K-Means clustering** for customer segmentation
-- **Elbow method and silhouette score** for optimal K selection
-- **Visualization of clusters** using PCA and 2D plots
-- **Interpretation** of cluster profiles based on spending behavior and preferences
+- **Preprocessing and EDA**.
+- **Elbow method and silhouette score** for optimal K selection.
+- **K-Means clustering** for customer segmentation.
+- **Visualization of clusters** using PCA and 2D plots.
+- **Interpretation** of cluster profiles based on spending behavior and preferences.
 
 ---
 
